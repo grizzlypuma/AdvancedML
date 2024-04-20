@@ -283,4 +283,4 @@ print(f"F1 score for test set is {f1_test}")
 
 # The performance of various boosting techniques depends on multiple hyperparamters and dataset provided for training.
 # With gradient boosting, good precision can be achieved in reducing errors. There are multiple advantages in using gradient boosting as compared to adaboost. Also XgBoost is again evolved version of gradient boosting. Being versatile and capability of handling large datasets makes it more popular. While CatBoost is popular to handle categorical variables more vigourously and doesnt require encoding for the same.
-#
+##
